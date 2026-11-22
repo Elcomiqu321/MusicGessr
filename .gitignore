@@ -1,0 +1,29 @@
+# Node / Expo
+node_modules/
+.expo/
+dist/
+web-build/
+npm-debug.*
+*.tgz
+
+# Android
+android/.gradle/
+android/build/
+android/app/build/
+*.apk
+*.aab
+*.keystore
+*.jks
+local.properties
+.gradle/
+.idea/
+
+# Secrets and local config
+.env
+.env.*
+!.env.example
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
